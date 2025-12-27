@@ -273,14 +273,11 @@ fitness = bench.evaluate(solution, func_num=1)  # Evaluate F1 function
 - CEC2014 Test Suite: IEEE CEC 2014 Competition on Single Objective Real-Parameter Numerical Optimization
 - Original papers for various algorithms and strategies
 
-## License
-
-[Please add license information as appropriate]
 
 ## Authors
 
-[Please add author information as appropriate]
+-Zhang Letian
+-Zheng Peiyang
+-Zhu Junyu
 
-## Changelog
 
-[Please maintain changelog as appropriate]
